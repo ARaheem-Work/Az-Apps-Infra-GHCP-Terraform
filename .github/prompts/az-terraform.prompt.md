@@ -22,7 +22,7 @@ This prompt file is designed to help GitHub Copilot generate structured Azure Te
 
     
 
-
+ 
 
 ## Prompts
 
@@ -33,5 +33,5 @@ This prompt file is designed to help GitHub Copilot generate structured Azure Te
 - SKU: Serverless
 ### **Create an Azure Storage Account**
 - SKU: Standard_LRS (Locally Redundant Storage)
-### **Generate a main.bicep file to orchestrate and deploy all the modules
+### **Generate a main.tf file to orchestrate and deploy all the modules
 
